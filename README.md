@@ -4,7 +4,7 @@ This repository contains the complete documentation, research, and project manag
 
 ## 🚀 Quick Links
 * **Live Demo:** [cybernexus-seven.vercel.app](https://cybernexus-seven.vercel.app/)
-* **Development Repository:** [View Source Code on GitHub](https://github.com/Arpita0704AD2110/Cybernexus)
+* **Development Repository:** [View Source Code on GitHub](https://github.com/bora23-04/Cybernexus)
 * **Project Video Demo:** [Insert Your Recorded Video Link Here]
 
 ---
@@ -24,7 +24,7 @@ This repository is organized into the following sections for institute evaluatio
 * **Data Analysis (SQL):** [SQL Task Script](./sql_task.ipynb)
 
 ### 3. Technical Core
-The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/Arpita0704AD2110/Cybernexus)** to ensure a clean separation between documentation and production code.
+The actual development, frontend, and deployment logic are maintained in the **[Cybernexus Development Repo](https://github.com/bora23-04/Cybernexus)** to ensure a clean separation between documentation and production code.
 
 ---
 
