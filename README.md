@@ -14,8 +14,8 @@ This repository contains the complete documentation, research, and project manag
 This repository is organized into the following sections for institute evaluation:
 
 ### 1. Planning & Agile Documentation
-* **Architecture:** [Architecture Diagram](./architecture.gif)
-* **Agile Docs:** [Link to your Agile/Project Management file]
+* **Architecture:** [Architecture Diagra](./architecture.gif)
+* **Agile Docs:** [Agile Document](https://github.com/bora23-04/Development-of-Interactive-Cyber-Threat-Visualization-Dashboard/blob/main/Agile_Team_B2.xlsx)
 * **PPT:** [Link to your Presentation file]
 
 ### 2. Research & Tasks
